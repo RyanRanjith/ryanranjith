@@ -6,5 +6,6 @@
 You can view my projects here
 
 <p > Completed my bachelors in 2020 in Peri Institute and currently doing my masters in Computer Science at CSUDH</p>
-<img src = "csudh.png" > 
+<img src = "csudh.png" height = "150" width = "200">   <img src = "peri.jpeg" height = "150" width = "200">
+
 
