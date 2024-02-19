@@ -1,11 +1,19 @@
-<h1 align = "left"> Hey this is Ranjith, Welcome to my profile </h1>
+# Hey, this is Ranjith! 👋 Welcome to my profile 
+### You can view my projects [here](#) 
 
-<img src = "GitHub-Mark-ea2971cee799.png" height = "150" width = "200">
-
-
-You can view my projects here
-
-<p > Completed my bachelors in 2020 in Peri Institute and currently doing my masters in Computer Science at CSUDH</p>
-<img src = "csudh.png" height = "150" width = "200">   <img src = "peri.jpeg" height = "150" width = "200">
+![GitHub Logo](GitHub-Mark-ea2971cee799.png)
 
 
+
+- 🎓 Completed my bachelors in 2020 from Peri Institute
+- 📚 Currently pursuing my masters in Computer Science at CSUDH
+
+<img src="csudh.png" height="100" width="150"> <img src="peri.jpeg" height="100" width="150">
+
+### Work Experience
+
+- 💼 Worked as CSR in Teleperformance (Jan 2021 - Sep 2021)
+      <img src="tp.jpeg" height="100" width="150">
+
+- 💼 Worked as CSA in Sutherland (Jan 2022 - Jul 2022)
+       <img src="sl.png" height="100" width="150">
