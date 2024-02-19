@@ -5,4 +5,5 @@
 
 You can view my projects here
 
-<p > Completed my bachelors in 2020 having 2 years experience in IT and Software development</p>
+<p > Completed my bachelors in 2020 in Peri Institute and currently doing my masters in Computer Science at CSUDH</p>
+
