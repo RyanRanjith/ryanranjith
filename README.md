@@ -1,6 +1,7 @@
 <h1 align = "left"> Hey this is Ranjith, Welcome to my profile </h1>
 
-<img src = "GitHub-Mark-ea2971cee799.png">
+<img src = "GitHub-Mark-ea2971cee799.png" height = "150" width = "200">
+
 
 You can view my projects here
 
